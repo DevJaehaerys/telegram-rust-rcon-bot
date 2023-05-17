@@ -1,0 +1,9 @@
+{
+  "tokenBot": "",
+  "ip": "192.168.10.101",
+  "port": "28016",
+  "pwd": "letmein",
+  "admins": [
+    "Admin_TG_ID_HERE"
+  ]
+}
